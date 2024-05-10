@@ -14,5 +14,3 @@ pwd
 ```
 
 En esta breve introducción, discutiremos y exploraremos estos comandos básicos y cómo nos ayudan a navegar por el entorno Linux.
-
-[Anterior](index) - [Siguiente](101-moving-files)

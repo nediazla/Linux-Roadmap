@@ -27,5 +27,3 @@ ls
 ```bash
 tree
 ```
-
-[Siguiente](100-basic-commands)
