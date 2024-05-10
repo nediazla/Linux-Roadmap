@@ -14,5 +14,7 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 ## [Gestión de procesos](content/106-process-management/index.md)
 
+## [Gestión de usuarios](content/107-user-management/index.md)
+
 
 seguimos trabajando.... :)
