@@ -24,7 +24,7 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 ## [111 - Arranque de Linux](content/111-booting-linux/index.md)
 
-## [112 - Redes](content/112-networking/index)
+## [112 - Redes](content/112-networking/index.md)
 
 ## [113 - Herramientas de copia de seguridad para Linux](content/113-backup-tools.md)
 
