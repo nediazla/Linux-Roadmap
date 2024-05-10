@@ -20,6 +20,8 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 ## [109 - Gestión de paquetes](content/109-package-management/index.md)
 
+## [110 - Sistemas de archivos de discos Linux](content/110-disks-filesystems/index.md)
+
 ## [113 - Herramientas de copia de seguridad para Linux](content/113-backup-tools.md)
 
 
