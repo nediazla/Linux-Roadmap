@@ -2,6 +2,6 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 # Temas
 
-## [Navegacion Basica](content/100-navigation-basics/index)
+## [Navegacion Basica](content/100-navigation-basics/index.md)
 ## Editando Archivos
 ## 
