@@ -13,4 +13,4 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 ## [Revision de Servidores](content/105-server-review/index.md)
 
 
-88[[]]
+seguimos trabajando.... :)
