@@ -18,6 +18,8 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 ## [108 - Gestion de Servicios](content/108-service-management/index.md)
 
+## [109 - Gestión de paquetes](content/109-package-management/index.md)
+
 ## [113 - Herramientas de copia de seguridad para Linux](content/113-backup-tools.md)
 
 
