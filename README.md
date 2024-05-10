@@ -30,7 +30,8 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 
 ## [114 - Programación en shell](content/114-shell-programming/index.md)
 
+## [115 - Solución de problemas](content/115-troubleshooting/index.md)
 
-seguimos trabajando.... :)
+## [116 - Contenedorización](content/116-containerization/index.md)
 
---
+
