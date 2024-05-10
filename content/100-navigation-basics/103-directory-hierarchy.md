@@ -5,3 +5,5 @@ En Linux, entender la jerarquía de directorios es crucial para una navegación 
 Cada directorio tiene una función específica. Por ejemplo, `/bin` contiene archivos binarios ejecutables (archivos de comandos), `/etc` tiene archivos de configuración del sistema, `/home` almacena los archivos personales de los usuarios y `/var` contiene archivos variados como registros y colas de impresión.
 
 No es necesario ningún fragmento de código, ya que la comprensión de la jerarquía de directorios es un conocimiento conceptual y no implica la ejecución de código.
+
+[Index](index) - [Vim](101-editing-files/100-vim)

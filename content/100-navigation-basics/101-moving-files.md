@@ -11,3 +11,5 @@ mv [options] source destination
 Aquí, `source` denota el archivo o directorio que desea mover mientras que `destination` denota la ubicación a la que desea mover su archivo o directorio de origen. 
 
 El comando `mv` es muy utilizado por su sencillez y versatilidad. Si quieres organizar tus archivos moviéndolos a diferentes directorios o renombrar un montón de archivos, el comando `mv` es tu herramienta en Linux.
+
+[Anterior](100-basic-commands) - [Siguiente](102-creating-files)

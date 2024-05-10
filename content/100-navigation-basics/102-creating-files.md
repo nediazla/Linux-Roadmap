@@ -17,3 +17,5 @@ cat > newfile.txt
 ```
 
 Ambos comandos crean un nuevo «newfile.txt» si no existe ya.
+
+[Anterior](101-moving-files) - [Siguiente](103-directory-hierarchy)
