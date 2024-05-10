@@ -3,14 +3,14 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 # Temas
 
 ## [100 - Navegación básica](content/100-navigation-basics/index.md)
-- [[100-basic-commands]]
-- [[101-moving-files]]
-- [[102-creating-files]]
-- [[103-directory-hierarchy]]
+- [Comandos básicos](100-basic-commands)
+- [Moviendo archivos](101-moving-files)
+- [Creando archivos](102-creating-files)
+- [Directorios](103-directory-hierarchy)
 
 ## [101 - Editando Archivos](content/101-editing-files/index.md)
-- [[100-vim]]
-- - [[101-nano]]
+- [vim](100-vim)
+- [nano](101-nano)
 ## [102 - Fundamentos del shell de Linux](content/102-shell-basics/index.md)
 - [[100-command-path]]
 -  [[101-environment-variables]]
