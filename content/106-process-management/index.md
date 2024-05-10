@@ -1,4 +1,4 @@
-# Gestión de proceso
+# Gestión de procesos
 
 La gestión de procesos es parte integral de cualquier sistema operativo y Linux no es diferente. Cada programa que se ejecuta en Linux, ya sea una aplicación o una operación del sistema, se trata como un proceso. Estos procesos realizan diferentes tareas pero trabajan juntos para brindar una experiencia operativa perfecta.
 
