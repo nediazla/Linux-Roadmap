@@ -12,11 +12,11 @@ Mas que un manual o esta es una guia que surge de los apuntes que tomo cuando es
 - [vim](100-vim)
 - [nano](101-nano)
 ## [102 - Fundamentos del shell de Linux](content/102-shell-basics/index.md)
-- [[100-command-path]]
--  [[101-environment-variables]]
-- [[102-command-help]]
-- [[103-redirects]]
-- [[104-super-user]]
+- [Ruta de comandos en conceptos básicos de Shell](100-command-path)
+-  [Variables de entorno en Shell Básico](101-environment-variables)
+- [Comando Help](102-command-help)
+- [Redirecciones en Shell Básico](103-redirects)
+- [Super Usuario](104-super-user)
 
 ## [103 - Trabajando con Archivos](content/103-working-with-files/index.md)
 - [[100-permissions]]
